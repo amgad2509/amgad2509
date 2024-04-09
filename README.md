@@ -13,14 +13,11 @@
 
 ## <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="30px">  About me
 
-<img align="right" src="https://i.imgur.com/j3Ar2aP.jpg" width="200px"/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
 
 <br><br>
-Hello Everyone 👋, I'm Amgad Mohamed Shalaby, an Artificial Intelligence Engineer with a passion for building intelligent systems using deep learning and computer vision. I thrive on the challenge of solving complex problems and pushing the boundaries of what's possible with AI technology.
-
-In addition to my technical expertise, I'm deeply fascinated by the intersection of technology and creativity. I believe that AI has the power to not only revolutionize industries but also inspire new forms of artistic expression and innovation.
-
-Outside of my work in AI, I enjoy staying active in the tech community, sharing knowledge, and collaborating with others to drive forward progress in the field. Whether it's through research, development, or mentorship, I'm always eager to contribute to meaningful projects that have a positive impact on society.
+Hello Everyone 👋, I'm Amgad Mohamed Shalaby, an Artificial Intelligence Engineer passionate about building intelligent systems using deep learning and computer vision.
+I enjoy exploring the intersection of technology and creativity.
 
 - 🔭 I’m currently working on enhancing my skills in Computer Vision & natural language processing.
 - 👯 I’m looking to collaborate on projects related to AI and machine learning.
@@ -46,4 +43,8 @@ Outside of my work in AI, I enjoy staying active in the tech community, sharing 
 </p>
 
 ## 🚀 My Hobbies
-- 📚 Reading: Reading Specially 
+- 📚 Reading: Reading Specially about our field.
+- ⚽ Playing football: Enjoying the beautiful game with friends and teammates.
+
+## 📝 Quote of the Day
+"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
